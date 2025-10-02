@@ -1,4 +1,4 @@
-About
+#About
 actix_list is a Rust-based project featuring a RESTful API built with Actix Web. It leverages SQLite as the database backend via SQLx for asynchronous database operations.
 
 Features
