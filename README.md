@@ -1,7 +1,7 @@
-#About
+## About
 actix_list is a Rust-based project featuring a RESTful API built with Actix Web. It leverages SQLite as the database backend via SQLx for asynchronous database operations.
 
-Features
+## Features
 SQLite database integration
 
 REST API using Actix Web
@@ -10,7 +10,7 @@ Async operations with SQLx
 
 Designed for simplicity and performance
 
-Installation
+## Installation
 Ensure Rust and Cargo are installed.
 
 Clone the repository:
@@ -27,5 +27,5 @@ The API endpoints provide CRUD (Create, Read, Update, Delete) operations on the 
 
 Use HTTP clients like curl or Postman to interact with the API.
 
-Contributing
+## Contributing
 Contributions are welcome. Please open issues or submit pull requests.
